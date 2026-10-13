@@ -1,0 +1,79 @@
+[ {
+  "case" : "integrityOk",
+  "throws" : false
+}, {
+  "case" : "integrityUnknownTrip",
+  "throws" : true,
+  "jackson" : false,
+  "type" : "java.lang.IllegalStateException",
+  "message" : "Integrity Error: Bike 'A' refers to non-existent trip 'nope'"
+}, {
+  "case" : "integrityUnknownSegment",
+  "throws" : true,
+  "jackson" : false,
+  "type" : "java.lang.IllegalStateException",
+  "message" : "Integrity Error: Trip 't2' refers to non-existent segment 'ghost'"
+}, {
+  "case" : "engineEmptyRoute",
+  "throws" : true,
+  "jackson" : false,
+  "type" : "java.util.NoSuchElementException",
+  "message" : "List is empty."
+}, {
+  "case" : "vehicleTypeUnknown",
+  "throws" : true,
+  "jackson" : false,
+  "type" : "java.lang.IllegalArgumentException",
+  "message" : "No enum constant com.pjmbusnel.smartbikes.model.VehicleType.SCOOTER"
+}, {
+  "case" : "vehicleTypeLowercase",
+  "throws" : false
+}, {
+  "case" : "jsonFleetMissingTripId",
+  "throws" : true,
+  "jackson" : true,
+  "type" : null,
+  "message" : null
+}, {
+  "case" : "jsonFleetUnknownField",
+  "throws" : true,
+  "jackson" : true,
+  "type" : null,
+  "message" : null
+}, {
+  "case" : "jsonCoordinateMissingLat",
+  "throws" : false
+}, {
+  "case" : "jsonCoordinateUnknownField",
+  "throws" : true,
+  "jackson" : true,
+  "type" : null,
+  "message" : null
+}, {
+  "case" : "jsonSegmentUnknownField",
+  "throws" : false
+}, {
+  "case" : "jsonSegmentMissingPoints",
+  "throws" : true,
+  "jackson" : true,
+  "type" : null,
+  "message" : null
+}, {
+  "case" : "jsonTripMissingSegments",
+  "throws" : true,
+  "jackson" : true,
+  "type" : null,
+  "message" : null
+}, {
+  "case" : "jsonDirectedSegmentMissingId",
+  "throws" : true,
+  "jackson" : true,
+  "type" : null,
+  "message" : null
+}, {
+  "case" : "jsonMalformed",
+  "throws" : true,
+  "jackson" : true,
+  "type" : null,
+  "message" : null
+} ]

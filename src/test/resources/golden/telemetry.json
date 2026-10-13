@@ -1,0 +1,30 @@
+{
+  "withBattery" : "{\"bikeId\":\"EB-001\",\"vehicleType\":\"E_MOTORBIKE\",\"lat\":18.7875579,\"lng\":98.9626137,\"speedKph\":61.23456789,\"batteryLevel\":88.5,\"timestamp\":\"2026-01-01T00:00:00Z\"}",
+  "withoutBattery" : "{\"bikeId\":\"MB-002-R\",\"vehicleType\":\"MOTORBIKE\",\"lat\":-0.0,\"lng\":1.0E-7,\"speedKph\":75.0,\"batteryLevel\":null,\"timestamp\":\"2026-01-01T00:00:00.123456Z\"}",
+  "sessionCount" : "{\"type\":\"SESSION_COUNT\",\"count\":3}",
+  "instantToString" : [ {
+    "epochSeconds" : 1767225600,
+    "nanos" : 0,
+    "string" : "2026-01-01T00:00:00Z"
+  }, {
+    "epochSeconds" : 1767225600,
+    "nanos" : 1000000,
+    "string" : "2026-01-01T00:00:00.001Z"
+  }, {
+    "epochSeconds" : 1767225600,
+    "nanos" : 120000000,
+    "string" : "2026-01-01T00:00:00.120Z"
+  }, {
+    "epochSeconds" : 1767225600,
+    "nanos" : 123456000,
+    "string" : "2026-01-01T00:00:00.123456Z"
+  }, {
+    "epochSeconds" : 1767225600,
+    "nanos" : 123456789,
+    "string" : "2026-01-01T00:00:00.123456789Z"
+  }, {
+    "epochSeconds" : 1767225600,
+    "nanos" : 1000,
+    "string" : "2026-01-01T00:00:00.000001Z"
+  } ]
+}

@@ -1,0 +1,10615 @@
+{
+  "distances" : [ {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 1622.341657911216
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0950638510915056E7
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 9053934.955487113
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 9074961.921573097
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 7918462.27548939
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 7464937.398514914
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 134108.16847037652
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 134108.16847037652
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 1622.341657911216
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0951113221912002E7
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 9053461.136510318
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 9074486.3191518
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 7916937.036919589
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 7466250.688164018
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 135523.06066998784
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 135523.06066998784
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 1.0950638510915056E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 1.0951113221912002E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 2.0003967303356092E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 2.0003967303356092E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0007543398010286E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 1.2306724598067975E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 1.0853300334910156E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 1.0853300334910156E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 9053934.955487113
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 9053461.136510318
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 2.0003967303356092E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 22238.985328911924
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0007543398010286E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 7701168.277747479
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 9151221.28068135
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 9151221.28068135
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 9074961.921573097
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 9074486.3191518
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 2.0003967303356092E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 22238.985328911924
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0007543398010286E7
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 7715560.375060062
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 9172351.893425258
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 9172351.893425258
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 7918462.27548939
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 7916937.036919589
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0007543398010286E7
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 1.0007543398010286E7
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 1.0007543398010286E7
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 1.5066912560337707E7
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 8006034.718408229
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 8006034.718408229
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 7464937.398514914
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 7466250.688164018
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.2306724598067975E7
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 7701168.277747479
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 7715560.375060062
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.5066912560337707E7
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 7409643.281483902
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 7409643.281483902
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 134108.16847037652
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 135523.06066998784
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0853300334910156E7
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 9151221.28068135
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 9172351.893425258
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 8006034.718408229
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 7409643.281483902
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "distance" : 134108.16847037652
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "distance" : 135523.06066998784
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 1.0853300334910156E7
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "distance" : 9151221.28068135
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "distance" : 9172351.893425258
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "distance" : 8006034.718408229
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "distance" : 7409643.281483902
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 0.0
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "distance" : 0.0
+  } ],
+  "interpolations" : [ {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.7909871,
+      "lng" : 98.96392667500001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.7944163,
+      "lng" : 98.96523965,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.8012609832,
+      "lng" : 98.96786034809999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.8081331,
+      "lng" : 98.97049154999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.780699499999997,
+      "lng" : 98.95998775000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 14.090668425,
+      "lng" : 74.221960275,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.39377895,
+      "lng" : 49.48130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018787557900001417,
+      "lng" : 0.09896261369999593,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.393778950000002,
+      "lng" : -49.481306849999996,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 28.18133685,
+      "lng" : 148.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 14.090668425,
+      "lng" : 119.19696027500001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.39377895,
+      "lng" : 139.43130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018787557900001417,
+      "lng" : 179.8190626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.393778950000002,
+      "lng" : 220.36869315,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 28.18133685,
+      "lng" : 58.493920550000006,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 14.090668425,
+      "lng" : 29.246960275000006,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.39377895,
+      "lng" : -40.46869314999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018787557900001417,
+      "lng" : -179.62113738629995,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.89999999999998,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.393778950000002,
+      "lng" : -319.33130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 28.18133685,
+      "lng" : 238.39392055000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 36.590668425000004,
+      "lng" : 74.221960275,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.39377895,
+      "lng" : 49.48130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.9287875579,
+      "lng" : 0.09896261369999593,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 125.60622105,
+      "lng" : -49.481306849999996,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -16.818663150000003,
+      "lng" : 148.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 2.7156684250000005,
+      "lng" : 104.284460275,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.356221049999998,
+      "lng" : 109.60630685000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.4357124421,
+      "lng" : 120.2287126137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -77.64377895,
+      "lng" : 130.89369315,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 50.931336849999994,
+      "lng" : 88.31892055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.590668425,
+      "lng" : 98.721960275,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.393778949999998,
+      "lng" : 98.48130685000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0007875579,
+      "lng" : 98.0009626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 17.606221050000002,
+      "lng" : 97.51869314999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 19.18133685,
+      "lng" : 99.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.590668425,
+      "lng" : 98.721960275,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.393778949999998,
+      "lng" : 98.48130685000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0007875579,
+      "lng" : 98.0009626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 17.606221050000002,
+      "lng" : 97.51869314999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 19.18133685,
+      "lng" : 99.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.7978455,
+      "lng" : 98.96655262499999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.7944163,
+      "lng" : 98.96523965,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.7875716168,
+      "lng" : 98.96261895190001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.780699499999997,
+      "lng" : 98.95998775000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.8081331,
+      "lng" : 98.97049154999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 14.100956025,
+      "lng" : 74.2258992,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.40063735,
+      "lng" : 49.4839328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018801274699999482,
+      "lng" : 0.09896786560000237,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.40063735,
+      "lng" : -49.483932800000005,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 28.20191205,
+      "lng" : 148.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 14.100956025,
+      "lng" : 119.2008992,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.40063735,
+      "lng" : 139.4339328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018801274699999482,
+      "lng" : 179.8190678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.40063735,
+      "lng" : 220.36606720000003,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 28.20191205,
+      "lng" : 58.50179839999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 14.100956025,
+      "lng" : 29.250899199999992,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.40063735,
+      "lng" : -40.46606720000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018801274699999482,
+      "lng" : -179.62113213440006,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.90000000000003,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.40063735,
+      "lng" : -319.33393280000007,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 28.20191205,
+      "lng" : 238.40179840000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 36.600956025,
+      "lng" : 74.2258992,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.400637350000004,
+      "lng" : 49.4839328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.92880127470002,
+      "lng" : 0.09896786560000237,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 125.59936265000002,
+      "lng" : -49.483932800000005,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -16.798087950000003,
+      "lng" : 148.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 2.725956025000002,
+      "lng" : 104.2883992,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.349362649999996,
+      "lng" : 109.60893279999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.43569872529999,
+      "lng" : 120.2287178656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.49999999999999,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -77.65063734999998,
+      "lng" : 130.8910672,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 50.95191205,
+      "lng" : 88.3267984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.600956025000002,
+      "lng" : 98.7258992,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.40063735,
+      "lng" : 98.48393279999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0008012747,
+      "lng" : 98.0009678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 17.59936265,
+      "lng" : 97.51606720000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 19.20191205,
+      "lng" : 99.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.600956025000002,
+      "lng" : 98.7258992,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.40063735,
+      "lng" : 98.48393279999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0008012747,
+      "lng" : 98.0009678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 17.59936265,
+      "lng" : 97.51606720000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 19.20191205,
+      "lng" : 99.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.696889475,
+      "lng" : 24.740653425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.39377895,
+      "lng" : 49.48130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.768770342099998,
+      "lng" : 98.86365108630001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 28.18133685,
+      "lng" : 148.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.39377895,
+      "lng" : -49.48130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.700318675,
+      "lng" : 24.7419664,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.40063735,
+      "lng" : 49.4839328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.7824734253,
+      "lng" : 98.8688977344,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 28.20191205,
+      "lng" : 148.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.40063735,
+      "lng" : -49.4839328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 44.975,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.7201,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -44.975,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.7201,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 22.5,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 45.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.91,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 135.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -45.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -11.375,
+      "lng" : 30.0625,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -22.75,
+      "lng" : 60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.4545,
+      "lng" : 120.12975,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -68.25,
+      "lng" : 180.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 22.75,
+      "lng" : -60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.5,
+      "lng" : 24.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.982,
+      "lng" : 97.902,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.5,
+      "lng" : 24.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.982,
+      "lng" : 97.902,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.696889475,
+      "lng" : 159.66565342500002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.39377895,
+      "lng" : 139.43130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.768770342099998,
+      "lng" : 99.0435510863,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 28.18133685,
+      "lng" : 58.49392055000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.39377895,
+      "lng" : 220.36869315,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.700318675,
+      "lng" : 159.6669664,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.40063735,
+      "lng" : 139.4339328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.7824734253,
+      "lng" : 99.0487977344,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 28.20191205,
+      "lng" : 58.501798399999984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.40063735,
+      "lng" : 220.3660672,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 134.925,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.1799000000000035,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -89.95000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.5402,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -359.80000000000007,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 359.8,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 22.5,
+      "lng" : 134.925,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 45.0,
+      "lng" : 89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.91,
+      "lng" : 0.1799000000000035,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 135.0,
+      "lng" : -89.95000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -45.0,
+      "lng" : 269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -11.375,
+      "lng" : 164.9875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -22.75,
+      "lng" : 150.075,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.4545,
+      "lng" : 120.30965,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -68.25,
+      "lng" : 90.425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 22.75,
+      "lng" : 209.72500000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.5,
+      "lng" : 159.425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 138.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.982,
+      "lng" : 98.0819,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 57.05,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : 220.85000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.5,
+      "lng" : 159.425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 138.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.982,
+      "lng" : 98.0819,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 57.05,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : 220.85000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.696889475,
+      "lng" : -110.184346575,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.39377895,
+      "lng" : -40.46869315000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.768770342099998,
+      "lng" : 98.68375108629996,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.96261369999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 28.18133685,
+      "lng" : 238.39392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.39377895,
+      "lng" : -319.33130685000003,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.700318675,
+      "lng" : -110.1830336,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.40063735,
+      "lng" : -40.4660672,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.7824734253,
+      "lng" : 98.68899773440003,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.96786560000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 28.20191205,
+      "lng" : 238.40179840000005,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.40063735,
+      "lng" : -319.3339328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -134.925,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -0.1799000000000035,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 89.95000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.5402,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 359.80000000000007,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -359.8,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 22.5,
+      "lng" : -134.925,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 45.0,
+      "lng" : -89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.91,
+      "lng" : -0.1799000000000035,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 135.0,
+      "lng" : 89.95000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -45.0,
+      "lng" : -269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -11.375,
+      "lng" : -104.86250000000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -22.75,
+      "lng" : -29.825000000000017,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.4545,
+      "lng" : 119.94985,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.24999999999997,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -68.25,
+      "lng" : 270.32499999999993,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 22.75,
+      "lng" : -329.975,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.5,
+      "lng" : -110.42500000000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : -40.95000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.982,
+      "lng" : 97.72209999999998,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 97.99999999999997,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 236.94999999999996,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -318.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 4.5,
+      "lng" : -110.42500000000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : -40.95000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.982,
+      "lng" : 97.72209999999998,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 97.99999999999997,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 236.94999999999996,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -318.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 72.196889475,
+      "lng" : 24.740653425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.39377895,
+      "lng" : 49.48130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.8587703421,
+      "lng" : 98.86365108630001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.787557899999996,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -16.818663150000006,
+      "lng" : 148.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 125.60622105,
+      "lng" : -49.48130685,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 72.200318675,
+      "lng" : 24.7419664,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.40063735,
+      "lng" : 49.4839328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.872473425299987,
+      "lng" : 98.8688977344,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.801274699999993,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -16.79808795000001,
+      "lng" : 148.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 125.59936265,
+      "lng" : -49.4839328,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 67.5,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 45.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.09000000000000341,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -45.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 135.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 67.5,
+      "lng" : 44.975,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 45.0,
+      "lng" : 89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.09000000000000341,
+      "lng" : 179.7201,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -45.0,
+      "lng" : 269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 135.0,
+      "lng" : -89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 67.5,
+      "lng" : -44.975,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 45.0,
+      "lng" : -89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.09000000000000341,
+      "lng" : -179.7201,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -45.0,
+      "lng" : -269.85,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 135.0,
+      "lng" : 89.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 56.125,
+      "lng" : 30.0625,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 22.25,
+      "lng" : 60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.36449999999999,
+      "lng" : 120.12975,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -113.25,
+      "lng" : 180.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 157.75,
+      "lng" : -60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 72.0,
+      "lng" : 24.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.072000000000003,
+      "lng" : 97.902,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -18.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 126.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 72.0,
+      "lng" : 24.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.072000000000003,
+      "lng" : 97.902,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -18.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 126.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -29.428110525,
+      "lng" : 114.928153425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.356221050000002,
+      "lng" : 109.60630685000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.723270342099994,
+      "lng" : 98.98390108630001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.787557899999996,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 50.931336849999994,
+      "lng" : 88.31892055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -77.64377895,
+      "lng" : 130.89369315,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -29.424681325,
+      "lng" : 114.9294664,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.349362650000003,
+      "lng" : 109.60893279999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.736973425299993,
+      "lng" : 98.98914773439999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.801274699999993,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 50.95191204999999,
+      "lng" : 88.3267984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -77.65063735,
+      "lng" : 130.8910672,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -34.125,
+      "lng" : 90.1875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -22.75,
+      "lng" : 60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -0.04549999999999699,
+      "lng" : 0.12024999999999864,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 22.75,
+      "lng" : -60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -68.25,
+      "lng" : 180.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -34.125,
+      "lng" : 135.1625,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -22.75,
+      "lng" : 150.075,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -0.04549999999999699,
+      "lng" : 179.84035,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 22.75,
+      "lng" : 209.72500000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -68.25,
+      "lng" : 90.425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -34.125,
+      "lng" : 45.212500000000006,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -22.75,
+      "lng" : -29.82499999999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -0.04549999999999699,
+      "lng" : -179.59985,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.89999999999998,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 22.75,
+      "lng" : -329.97499999999997,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -68.25,
+      "lng" : 270.325,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -11.625,
+      "lng" : 90.1875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 22.25,
+      "lng" : 60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.86449999999999,
+      "lng" : 0.12024999999999864,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 157.75,
+      "lng" : -60.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -113.25,
+      "lng" : 180.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -29.625,
+      "lng" : 114.6875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.75,
+      "lng" : 109.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.936500000000002,
+      "lng" : 98.02225,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 49.75,
+      "lng" : 86.875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -77.25,
+      "lng" : 131.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : -29.625,
+      "lng" : 114.6875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.75,
+      "lng" : 109.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 17.936500000000002,
+      "lng" : 98.02225,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 49.75,
+      "lng" : 86.875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -77.25,
+      "lng" : 131.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.196889475,
+      "lng" : 98.240653425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.393778949999998,
+      "lng" : 98.48130685000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.7867703421,
+      "lng" : 98.96165108630001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 19.18133685,
+      "lng" : 99.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 17.606221050000002,
+      "lng" : 97.51869314999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.200318675,
+      "lng" : 98.2419664,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.40063735,
+      "lng" : 98.48393279999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.8004734253,
+      "lng" : 98.96689773439999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 19.20191205,
+      "lng" : 99.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 17.59936265,
+      "lng" : 97.51606720000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 13.5,
+      "lng" : 73.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018000000000000682,
+      "lng" : 0.09799999999999898,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 13.5,
+      "lng" : 118.475,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 138.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018000000000000682,
+      "lng" : 179.81810000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : 220.85000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 57.05,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 13.5,
+      "lng" : 28.525000000000006,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : -40.94999999999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018000000000000682,
+      "lng" : -179.6221,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.89999999999998,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -318.84999999999997,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 236.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 36.0,
+      "lng" : 73.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.928,
+      "lng" : 0.09799999999999898,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 126.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -18.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 2.125,
+      "lng" : 103.5625,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.75,
+      "lng" : 109.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.4365,
+      "lng" : 120.22775,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -77.25,
+      "lng" : 131.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 49.75,
+      "lng" : 86.875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.196889475,
+      "lng" : 98.240653425,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.393778949999998,
+      "lng" : 98.48130685000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.7867703421,
+      "lng" : 98.96165108630001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 19.18133685,
+      "lng" : 99.44392055,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.7875579,
+      "lng" : 98.9626137,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 17.606221050000002,
+      "lng" : 97.51869314999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.200318675,
+      "lng" : 98.2419664,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.40063735,
+      "lng" : 98.48393279999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.8004734253,
+      "lng" : 98.96689773439999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 19.20191205,
+      "lng" : 99.4517984,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.8012747,
+      "lng" : 98.9678656,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 17.59936265,
+      "lng" : 97.51606720000001,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 13.5,
+      "lng" : 73.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018000000000000682,
+      "lng" : 0.09799999999999898,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 13.5,
+      "lng" : 118.475,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : 138.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018000000000000682,
+      "lng" : 179.81810000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : 220.85000000000002,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : 179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 57.05,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 13.5,
+      "lng" : 28.525000000000006,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 9.0,
+      "lng" : -40.94999999999999,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 0.018000000000000682,
+      "lng" : -179.6221,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 0.0,
+      "lng" : -179.89999999999998,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -9.0,
+      "lng" : -318.84999999999997,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 0.0,
+      "lng" : -179.9,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 27.0,
+      "lng" : 236.95,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 36.0,
+      "lng" : 73.5,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 54.0,
+      "lng" : 49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 89.928,
+      "lng" : 0.09799999999999898,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 126.0,
+      "lng" : -49.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 90.0,
+      "lng" : 0.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : -18.0,
+      "lng" : 147.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 2.125,
+      "lng" : 103.5625,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : -13.75,
+      "lng" : 109.125,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : -45.4365,
+      "lng" : 120.22775,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : -77.25,
+      "lng" : 131.375,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : -45.5,
+      "lng" : 120.25,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 49.75,
+      "lng" : 86.875,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.25,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 0.999,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.0,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : 1.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  }, {
+    "a" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "b" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    },
+    "fraction" : -0.5,
+    "result" : {
+      "lat" : 18.0,
+      "lng" : 98.0,
+      "name" : null
+    }
+  } ]
+}
