@@ -1,11 +1,41 @@
+### Maven ###
 target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-/target/
-/.idea/
+### Java ###
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+### IntelliJ IDEA ###
+.idea/
 *.iws
 *.iml
 *.ipr
+out/
+
+### macOS ###
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+
+### Claude Code ###
+# Personal settings stay local; CLAUDE.md and shared .claude/settings.json are committed
+.claude/settings.local.json
